@@ -6,24 +6,23 @@
     <title>Locus HR Solutions</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 <body>
-    <!-- Top Bar -->
+    
     <div class="top-bar">
         <marquee class="TopTxt" behavior="scroll" direction="left">
             Welcome to Locus Group Ghana since 2005
         </marquee>
     </div>
 
-    <!-- Navbar -->
     <header class="navbar">
         <div class="navcontainer">
-            <!-- Left Section with Logo -->
+            
             <div class="navbar-left">
                 <img src="Assets/locus.jpg" alt="LocustLogo" class="LocustLogo">
             </div>
-    
-            <!-- Right Section with Navigation Links -->
+
             <nav class="navbar-right">
                 <ul class="nav-links">
                     <li><a href="#home">HOME</a></li>
@@ -33,17 +32,13 @@
                     <li><a href="#contact">CONTACT</a></li>
                 </ul>
             </nav>
-    
-            <!-- Hamburger Icon for Mobile -->
-            <div class="hamburger-icon" onclick="toggleNavPanel()">
-                &#9776;
-            </div>
+
+            <div class="hamburger-icon">&#9776;</div>
         </div>
     </header>
-    
-    <!-- Navigation Panel for Mobile -->
+
     <div id="nav-panel" class="nav-panel">
-        <a href="javascript:void(0)" class="closebtn" onclick="toggleNavPanel()">&times;</a>
+        <a href="javascript:void(0)" class="closebtn">&times;</a>
         <a href="#home">HOME</a>
         <a href="#about">ABOUT US</a>
         <a href="#services">SERVICES</a>
@@ -51,7 +46,6 @@
         <a href="#contact">CONTACT</a>
     </div>
 
-    <!-- Home Section -->
     <section id="home" class="hero-section">
         <div class="container">
             <div class="hero-content">
@@ -61,9 +55,9 @@
                     <a href="#about" class="btnn">Learn More</a>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-    <!-- About Us Section -->
     <section id="about" class="about-section">
         <div class="container">
             <h2>About Us</h2>
@@ -77,7 +71,7 @@
                         <div class="cardcontainer">
                             <div class="card">
                                 <div class="face face1">
-                                    <div class="content">          
+                                    <div class="content">
                                         <h3>Our Vision</h3>
                                     </div>
                                 </div>
@@ -87,7 +81,7 @@
                                     </div>
                                 </div>
                             </div>
-    
+
                             <div class="card">
                                 <div class="face face1">
                                     <div class="content">
@@ -100,7 +94,7 @@
                                     </div>
                                 </div>
                             </div>
-    
+
                             <div class="card">
                                 <div class="face face1">
                                     <div class="content">
@@ -113,16 +107,13 @@
                                     </div>
                                 </div>
                             </div>
-    
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
 
-    <!-- Services Section -->
     <section id="services" class="services-section">
         <div class="container">
             <h2>Our Services</h2>
@@ -134,19 +125,19 @@
                     <h3>Talent Acquisition</h3>
                     <p>Attracting and securing top talent is key to driving your organization forward. We offer job posting, advertising, screening, interviewing, and onboarding solutions.</p>
                 </div>
-                
+
                 <div class="card">
                     <img src="Assets/Emloyee-training.jpg" alt="Employee Training and Development">
                     <h3>Employee Training and Development</h3>
                     <p>Empower your workforce with skills development, leadership training, and compliance programs designed to enhance productivity and leadership potential.</p>
                 </div>
-                
+
                 <div class="card">
                     <img src="Assets/Leadership-Coaching.jpg" alt="Leadership Coaching">
                     <h3>Leadership Coaching</h3>
                     <p>Develop your organization's leaders through tailored coaching sessions that prepare them for the challenges of tomorrow.</p>
                 </div>
-                
+
                 <div class="card">
                     <img src="Assets/HR-Consulting.jpg" alt="HR Consulting">
                     <h3>HR Consulting</h3>
@@ -155,6 +146,7 @@
             </div>
         </div>
     </section>
+
     <section id="blog" class="blog-section">
         <div class="container">
             <h2>Latest Blog Posts</h2>
@@ -169,7 +161,7 @@
                             data-content="Employee engagement is critical for any organization. Engaged employees are more productive and motivated."
                             data-image="Assets/Boosting-Employee-Engagement2.jpg">Read More</button>
                 </div>
-    
+
                 <div class="blog-post">
                     <img src="Assets/Leadership-and-Company-Culture.jpg" alt="Blog Post 2">
                     <h3>Leadership and Company Culture: A Symbiotic Relationship</h3>
@@ -179,7 +171,7 @@
                             data-content="Leadership shapes company culture, and in turn, company culture influences the success of leadership."
                             data-image="Assets/Leadership-and-Company-Culture2.jpg">Read More</button>
                 </div>
-    
+
                 <div class="blog-post">
                     <img src="Assets/The-Power-of-Diversity.jpg" alt="Blog Post 3">
                     <h3>The Power of Diversity and Inclusion</h3>
@@ -189,7 +181,7 @@
                             data-content="A diverse and inclusive workplace fosters innovation, creativity, and a better working environment."
                             data-image="Assets/The-Power-of-Diversity2.jpg">Read More</button>
                 </div>
-    
+
                 <div class="blog-post">
                     <img src="Assets/The-Future-of-Work.jpg" alt="Blog Post 4">
                     <h3>The Future of Work: Navigating the Changing Landscape</h3>
@@ -202,19 +194,18 @@
             </div>
         </div>
     </section>
-<!-- Blog Post Modal -->
-<div id="blogModal" class="modal">
-    <div class="modal-content">
-        <span class="close">&times;</span>
-        <div class="modal-body">
-            <img src="https://via.placeholder.com/600x400" alt="Blog Image" class="modal-img">
-            <h3 class="modal-title">Blog Post Title</h3>
-            <p class="modal-text">At Locus HR Solutions, we provide insights and strategies to help businesses thrive by focusing on their most valuable asset: their people.</p>
+
+    <div id="blogModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <img src="https://via.placeholder.com/600x400" alt="Blog Image" class="modal-img">
+                <h3 class="modal-title">Blog Post Title</h3>
+                <p class="modal-text">At Locus HR Solutions, we provide insights and strategies to help businesses thrive by focusing on their most valuable asset: their people.</p>
+            </div>
         </div>
     </div>
-</div>
 
-    <!-- Contact Section -->
     <footer class="footer">
         <section id="contact" class="contact-section">
             <div class="container1">
@@ -225,18 +216,10 @@
                     <p>Address: Dansoman-Accra, Ghana</p>
                     <div class="socials">
                         <div class="social">
-                            <a href="#" class="icon icon-instagram">
-                                <i class="fa fa-instagram"></i>
-                            </a>
-                            <a href="#" class="icon icon-twitter">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                            <a href="#" class="icon icon-facebook">
-                                <i class="fa fa-facebook"></i>
-                            </a>
-                            <a href="#" class="icon icon-linkedin">
-                                <i class="fa fa-linkedin"></i>
-                            </a>
+                            <a href="#" class="icon icon-instagram"><i class="fa fa-instagram"></i></a>
+                            <a href="#" class="icon icon-twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="icon icon-facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="#" class="icon icon-linkedin"><i class="fa fa-linkedin"></i></a>
                         </div>
                     </div>
                 </div>
@@ -249,16 +232,13 @@
                         <button type="submit" class="formbtn">Submit</button>
                     </form>
                 </div>
-                
             </div>
         </section>
         <div class="container">
-            <p>&copy; 2024 Locus HR Solutions.  All rights reserved.</p>
+            <p>&copy; 2024 Locus HR Solutions. All rights reserved.</p>
         </div>
     </footer>
 
-    <!-- JavaScript -->
     <script src="script.js"></script>
-    <script type="text/javascript" src="https://cdn.emailjs.com/dist/email.min.js"></script>
 </body>
-</html>
+                    </html>
