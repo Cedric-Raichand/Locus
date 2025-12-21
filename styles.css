@@ -23,7 +23,6 @@ hr {
     margin: 20px 0;
 }
 
-/* Top Bar */
 .top-bar {
     background-color: #0056b3;
     color: white;
@@ -53,7 +52,6 @@ hr {
     position: relative; /* For proper positioning of logo and hamburger */
 }
 
-/* Container for Navbar */
 .navcontainer {
     max-width: 1200px;
     margin: 0 auto;
@@ -64,13 +62,11 @@ hr {
     width: 100%;
 }
 
-/* Logo */
 .LocustLogo {
     width: 120px;
     height: auto;
 }
 
-/* Nav Links */
 .navbar-right {
     display: flex;
 }
@@ -108,7 +104,6 @@ hr {
     cursor: pointer;
 }
 
-/* Mobile Navigation Panel */
 .nav-panel {
     height: 100%;
     width: 0;
@@ -141,7 +136,7 @@ hr {
     font-size: 36px;
     color: white;
 }
-/* Hero Section */
+
 .hero-section {
     background-image: url('Assets/herobg.jpg');
     background-size: cover;
@@ -194,7 +189,6 @@ hr {
     background-color: #003f7f;
 }
 
-/* About Us Section */
 .about-section {
     padding: 60px 0;
     background-color: #f4f4f4;
@@ -238,7 +232,7 @@ hr {
     width: 50%;
     
 }
-/* card details */
+
 .cardbody{
     display:flex;
     margin: 0;
@@ -323,7 +317,7 @@ hr {
     box-sizing: border-box;
     box-shadow: 0 10px 20px rgba(14, 84, 212, 0.137);
     transform: translateY(-100px);
-    /* height:max-content; */
+    
     padding-bottom: 5px;
     padding-left: 15px;
 }
@@ -397,7 +391,7 @@ hr {
     transform: translateY(0);
     transition: transform 0.5s ease-out;
 }
-/* Services Section */
+
 .services-section {
     padding: 60px 0;
     background-color: #f4f4f4;
@@ -450,7 +444,6 @@ hr {
     margin: 20px 0; 
 }
 
-/* Portfolio Section */
 .portfolio-section {
     padding: 50px 0;
     background-color: #f9f9f9;
@@ -530,7 +523,6 @@ hr {
     background-color: #0056b3;
 }
 
-/* Blog Section */
 .blog-section {
     padding: 50px 0;
     background-color: #fff;
@@ -645,7 +637,6 @@ hr {
     width: 250px;
 }
 
-/* Footer */
 .footer {
     background-color:#e9f1fa;
     text-align: center;
@@ -723,7 +714,6 @@ hr {
     }
 }
 
-/* Modal */
 .modal {
     display: none; 
     position: fixed; 
