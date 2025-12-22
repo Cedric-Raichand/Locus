@@ -31,7 +31,7 @@ hr {
     font-size: 14px;
     width: 100%;
     overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
 .TopTxt {
@@ -48,8 +48,8 @@ hr {
     align-items: center;
     padding: 15px 20px;
     color: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    position: relative; /* For proper positioning of logo and hamburger */
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
 .navcontainer {
