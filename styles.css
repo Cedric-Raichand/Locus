@@ -273,7 +273,7 @@ hr {
 
 .cardcontainer .card:hover .face.face1{
     transform: translateY(0);
-    box-shadow: 0 10px 20px rgba(14, 84, 212, 0.137);
+    box-shadow: 0 10px 20px rgba(15, 85, 212, 0.137);
     padding: 10px 30px;
     
 }
@@ -463,14 +463,14 @@ hr {
     text-align: left;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center align content */
-    overflow: hidden; /* Prevent content overflow */
+    align-items: center; 
+    overflow: hidden;
 }
 
 .portfolio-item img {
     display: block;
     margin: 0 auto;
-    max-width: 100%; /* Ensure image does not overflow */
+    max-width: 100%; 
 }
 
 .portfolio-item img:hover {
