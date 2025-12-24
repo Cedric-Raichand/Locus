@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 entry.target.classList.add('card-active');
             }
         });
-    }, { threshold: 0.3 });
+    }, { threshold: 0.4 });
 
     cards.forEach(card => observer.observe(card));
 
