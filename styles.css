@@ -35,7 +35,7 @@ hr {
 }
 
 .TopTxt {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
     color: white;
     letter-spacing: 0.5px;
@@ -87,7 +87,7 @@ hr {
     color: white;
     text-decoration: none;
     padding: 10px 20px;
-    transition: background-color 0.3s ease, color 0.3s ease;
+    transition: background-color 0.35s ease, color 0.3s ease;
     font-size: 1.1rem;
 }
 
@@ -96,7 +96,6 @@ hr {
     border-radius: 5px;
 }
 
-/* Hamburger Icon */
 .hamburger-icon {
     display: none;
     font-size: 2rem;
