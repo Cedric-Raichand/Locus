@@ -450,9 +450,9 @@ hr {
 
 .portfolio-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two columns layout */
+    grid-template-columns: repeat(2, 1fr); 
     gap: 30px;
-    overflow: hidden; /* Hide any overflow content */
+    overflow: hidden; 
 }
 
 .portfolio-item {
@@ -491,7 +491,7 @@ hr {
     color: #666;
     margin-bottom: 15px;
     font-weight: 300;
-    text-align: center; /* Center text */
+    text-align: center; 
 }
 
 .read-more-btn {
@@ -503,7 +503,7 @@ hr {
     transition: background-color 0.3s ease;
     width: 150px;
     height: 50px;
-    margin-top: auto; /* Push button to the bottom */
+    margin-top: auto;
 }
 
 .read-more-btn {
