@@ -19,7 +19,7 @@ h1, h2, h3 {
 
 hr {
     border: none;
-    border-top: 3px solid #c7dbf1;
+    border-top: 2px solid #c7dbf1;
     margin: 20px 0;
 }
 
@@ -132,7 +132,7 @@ hr {
     position: absolute;
     top: 15px;
     right: 25px;
-    font-size: 36px;
+    font-size: 35px;
     color: white;
 }
 
