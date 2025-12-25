@@ -328,7 +328,7 @@ hr {
     }
     
     .cardcontainer .card .face.face2 .content p {
-    font-size: 12pt;
+    font-size: 12px;
     margin: 0 ;
     padding: 0;
     color:grey;
@@ -598,7 +598,6 @@ hr {
     background-color: #0056b3;
 }
 
-/* Contact Section */
 .contact-section {
     padding: 60px 0;
 }
