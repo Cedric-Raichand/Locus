@@ -754,7 +754,7 @@ hr {
     width: 100%;
     height: auto;
     margin-bottom: 20px;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .modal-title {
@@ -933,7 +933,7 @@ hr {
     }
 
     .top-bar .TopTxt {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .preloader {
@@ -1071,7 +1071,7 @@ hr {
 
 @media (max-width: 480px) {
     .TopTxt {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .right {
