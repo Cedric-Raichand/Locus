@@ -537,7 +537,7 @@ hr {
     background: #f9f9f9;
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     overflow: hidden; 
     position: relative;
     transition: transform 0.3s ease; 
@@ -672,7 +672,7 @@ hr {
 }
 
 .icon:hover {
-    outline-offset: 4px;
+    outline-offset: 5px;
 }
 
 .icon i {
@@ -926,7 +926,7 @@ hr {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 770px) {
     .LocustLogo {
         width: 80px;
     }
