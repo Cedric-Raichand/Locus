@@ -121,7 +121,7 @@ hr {
     font-size: 1.5rem;
     color: white;
     display: block;
-    transition: 0.3s;
+    transition: 0.35s;
 }
 
 .nav-panel a:hover {
@@ -181,7 +181,7 @@ hr {
     border-radius: 5px;
     text-decoration: none;
     font-size: 1.2rem;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.35s ease;
 }
 
 .btnn:hover {
