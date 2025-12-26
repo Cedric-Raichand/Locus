@@ -655,7 +655,7 @@ hr {
 
 .social {
     display: flex;
-    column-gap: 28px;
+    column-gap: 30px;
 }
 
 .icon {
