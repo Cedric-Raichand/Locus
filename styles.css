@@ -132,7 +132,7 @@ hr {
     position: absolute;
     top: 15px;
     right: 25px;
-    font-size: 35px;
+    font-size: 30px;
     color: white;
 }
 
@@ -328,7 +328,7 @@ hr {
     }
     
     .cardcontainer .card .face.face2 .content p {
-    font-size: 12px;
+    font-size: 15px;
     margin: 0 ;
     padding: 0;
     color:grey;
