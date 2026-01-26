@@ -254,7 +254,7 @@ hr {
   
 .cardcontainer .card .face{
     height: 200px;
-    transition:.7s;
+    transition:.5s;
     
     
 }
@@ -314,7 +314,7 @@ hr {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    box-shadow: 0 10px 20px rgba(15, 85, 212, 0.137);
+    box-shadow: 0 10px 20px rgba(20, 90, 215, 0.137);
     transform: translateY(-100px);
     
     padding-bottom: 5px;
