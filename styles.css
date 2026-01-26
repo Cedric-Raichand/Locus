@@ -273,7 +273,7 @@ hr {
 
 .cardcontainer .card:hover .face.face1{
     transform: translateY(0);
-    box-shadow: 0 10px 20px rgba(15, 85, 212, 0.137);
+    box-shadow: 0 10px 20px rgba(20, 90, 215, 0.137);
     padding: 10px 30px;
     
 }
