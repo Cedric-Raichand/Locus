@@ -130,7 +130,7 @@ hr {
 
 .nav-panel .closebtn {
     position: absolute;
-    top: 15px;
+    top: 20px;
     right: 25px;
     font-size: 30px;
     color: white;
@@ -291,7 +291,7 @@ hr {
 }
 
   .cardcontainer .card .face.face1 .content i{
-    font-size: 3em;
+    font-size: 2em;
     color: white;
     display: inline-block;
     
@@ -475,7 +475,7 @@ hr {
 
 .portfolio-item img:hover {
     transform: translateY(-10px);
-    transition: transform 0.3s;
+    transition: transform 0.35s;
 }
 
 .portfolio-item h3 {
@@ -540,14 +540,14 @@ hr {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     overflow: hidden; 
     position: relative;
-    transition: transform 0.3s ease; 
+    transition: transform 0.35s ease; 
 }
 
 .blog-post img {
     width: 100%;
     height: 90%;
     object-fit: cover; 
-    transition: transform 0.3s ease; 
+    transition: transform 0.35s ease; 
     position: absolute; 
     top: 25%;
     left: 0;
@@ -560,7 +560,7 @@ hr {
     background: rgba(255, 255, 255, 0.9); 
     z-index: 0; 
     opacity: 0; 
-    transition: opacity 0.3s ease; 
+    transition: opacity 0.35s ease; 
 }
 
 .blog-post:hover img {
@@ -591,7 +591,7 @@ hr {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.35s ease;
 }
 
 .read-more-btn:hover {
