@@ -1,12 +1,16 @@
 🚀 Locus HR Solutions Website
+
 📖 Overview
 Locus HR Solutions is a professional human resources services website for a Ghana-based HR company.
 The website showcases the company's services, provides company information, features a blog, and includes a contact form for consultation requests.
+
 Goals:
 🏢 Provide information about Locus HR Solutions and their services.
+
 📝 Showcase HR insights and strategies via a blog section.
 ✉️ Facilitate client interaction through a contact form and social media links.
 💻 Offer a seamless experience across desktop, tablet, and mobile devices.
+
 ✨ Features
 📱 Responsive Design – Fully responsive using CSS Flexbox and Grid.
 🎯 Hero Section – Introduction to the company with call-to-action buttons.
@@ -17,11 +21,13 @@ Goals:
 🧭 Navigation Panel – Desktop navigation and a mobile-friendly hamburger menu.
 🔗 Footer – Company information and social media links.
 🎨 Animations – Smooth hover effects, card animations, and modal popups.
+
 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript
 Styling: Google Fonts (Poppins), Font Awesome icons
 Responsive Design: CSS Grid & Flexbox, media queries
 Backend (Form Handling): PHP for contact form email submission
+
 Additional Features:
 💬 Modal popups for blog posts
 🍔 Hamburger menu for mobile navigation
@@ -35,6 +41,7 @@ Boosting Employee Engagement – Strategies to motivate and engage your workforc
 Leadership & Company Culture – How leadership shapes company culture and vice versa.
 Diversity and Inclusion – Benefits of fostering a diverse and inclusive workplace.
 Future of Work – Trends and technologies reshaping organizational dynamics.
+
 📞 Contact
 Email: info@locushr.com
 Phone: +233 540116781
