@@ -19,7 +19,7 @@ h1, h2, h3 {
 
 hr {
     border: none;
-    border-top: 1px solid #c7dbf1;
+    border-top: 2px solid #c7dbf1;
     margin: 20px 0;
 }
 
@@ -38,7 +38,7 @@ hr {
     font-size: 20px;
     font-weight: 500;
     color: white;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.7px;
 }
 
 .navbar {
@@ -93,7 +93,7 @@ hr {
 
 .nav-links a:hover {
     background-color: #003f7f;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 .hamburger-icon {
