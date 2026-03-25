@@ -38,7 +38,7 @@ hr {
     font-size: 20px;
     font-weight: 500;
     color: white;
-    letter-spacing: 0.7px;
+    letter-spacing: 0.5px;
 }
 
 .navbar {
@@ -429,7 +429,7 @@ hr {
 .service-cards .card img:hover{
     width: 100%;
     transform: scale(1.11);
-    transition: transform 0.35s;
+    transition: transform 0.25s;
     
 }
 
@@ -515,7 +515,7 @@ hr {
     transition: background-color 0.25s ease;
     width: 150px;
     height: 50px;
-    margin-left: 12px;
+    margin-left: 15px;
 }
 
 .read-more-btn:hover {
@@ -700,7 +700,7 @@ hr {
 }
 
 .icon:hover i {
-    animation: shake 0.35s;
+    animation: shake 0.25s;
 }
 
 @keyframes shake {
