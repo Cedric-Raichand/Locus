@@ -178,7 +178,7 @@ hr {
     color: white;
     width: 120px;
     padding: 15px 40px;
-    border-radius: 5px;
+    border-radius: 7px;
     text-decoration: none;
     font-size: 1.2rem;
     transition: background-color 0.35s ease;
@@ -314,7 +314,7 @@ hr {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    box-shadow: 0 10px 20px rgba(20, 90, 215, 0.137);
+    box-shadow: 0 10px 20px rgba(20, 90, 215, 0.135);
     transform: translateY(-100px);
     
     padding-bottom: 5px;
@@ -420,7 +420,7 @@ hr {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.25s ease;
+    transition: transform 0.35s ease;
 }
 
 .service-cards .card img{
@@ -668,7 +668,7 @@ hr {
     color: white;
     justify-content: center;
     align-items: center;
-    transition: outline-offset 0.35s, outline-color 0.25s, background-color 0.25s;
+    transition: outline-offset 0.3s, outline-color 0.25s, background-color 0.25s;
 }
 
 .icon:hover {
@@ -700,7 +700,7 @@ hr {
 }
 
 .icon:hover i {
-    animation: shake 0.25s;
+    animation: shake 0.35s;
 }
 
 @keyframes shake {
