@@ -615,7 +615,7 @@ hr {
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
-    transition: background-color 0.35s ease;
+    transition: background-color 0.25s ease;
 }
 .formbtn:hover {
     background-color: #003f7f;
@@ -668,7 +668,7 @@ hr {
     color: white;
     justify-content: center;
     align-items: center;
-    transition: outline-offset 0.35s, outline-color 0.25s, background-color 0.25s;
+    transition: outline-offset 0.25s, outline-color 0.25s, background-color 0.25s;
 }
 
 .icon:hover {
@@ -1057,7 +1057,7 @@ hr {
     }
     
     .icon:hover i {
-        animation: shake 0.35s;
+        animation: shake 0.25s;
     }
 }
 
