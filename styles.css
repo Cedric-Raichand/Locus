@@ -121,7 +121,7 @@ hr {
     font-size: 1.5rem;
     color: white;
     display: block;
-    transition: 0.35s;
+    transition: 0.25s;
 }
 
 .nav-panel a:hover {
@@ -420,7 +420,7 @@ hr {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.35s ease;
+    transition: transform 0.25s ease;
 }
 
 .service-cards .card img{
