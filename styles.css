@@ -87,7 +87,7 @@ hr {
     color: white;
     text-decoration: none;
     padding: 10px 20px;
-    transition: background-color 0.35s ease, color 0.3s ease;
+    transition: background-color 0.25s ease, color 0.3s ease;
     font-size: 1.1rem;
 }
 
