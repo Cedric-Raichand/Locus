@@ -181,7 +181,7 @@ hr {
     border-radius: 5px;
     text-decoration: none;
     font-size: 1.2rem;
-    transition: background-color 0.35s ease;
+    transition: background-color 0.25s ease;
 }
 
 .btnn:hover {
@@ -314,7 +314,7 @@ hr {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    box-shadow: 0 10px 20px rgba(20, 90, 215, 0.135);
+    box-shadow: 0 10px 20px rgba(20, 90, 217, 0.135);
     transform: translateY(-100px);
     
     padding-bottom: 5px;
