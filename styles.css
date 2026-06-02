@@ -121,7 +121,7 @@ hr {
     font-size: 1.5rem;
     color: white;
     display: block;
-    transition: 0.25s;
+    transition: 0.35s;
 }
 
 .nav-panel a:hover {
@@ -615,7 +615,7 @@ hr {
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
-    transition: background-color 0.35s ease;
+    transition: background-color 0.25s ease;
 }
 .formbtn:hover {
     background-color: #003f7f;
