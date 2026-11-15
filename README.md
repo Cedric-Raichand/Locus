@@ -34,6 +34,7 @@ Goals:
 🎨 Animations – Smooth hover effects, card animations, and modal popups.
 
 🛠️ Technologies Used
+
 Frontend: HTML5, CSS3, JavaScript
 Styling: Google Fonts (Poppins), Font Awesome icons
 Responsive Design: CSS Grid & Flexbox, media queries
@@ -48,6 +49,7 @@ Talent Acquisition – Attract and secure top talent through job posting, screen
 Employee Training and Development – Upskill employees with leadership training, compliance programs, and productivity workshops.
 Leadership Coaching – Tailored coaching sessions to develop future leaders.
 HR Consulting – Expert consulting on HR strategy, organizational development, and change management.
+
 📰 Blog Highlights
 Boosting Employee Engagement – Strategies to motivate and engage your workforce.
 Leadership & Company Culture – How leadership shapes company culture and vice versa.
